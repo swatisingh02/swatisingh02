@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swatisingh02
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning Computer Science Engineering 
+- 🌱 I’m currently pursuing Computer Science Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
